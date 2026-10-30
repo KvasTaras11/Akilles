@@ -160,10 +160,23 @@ h2 {
     background-color: white;
 }
 
+.card-1 {
+    background: url(/Rectangle\ 5.png);
+}
+
+.card-2 {
+    background: url(/Rectangle\ 6.png);
+}
+
+.card-3 {
+    background: url(/Rectangle\ 7.png);
+}
+
 .card a {
     font-size: 50px;
     text-decoration: none;
-    color: black;
+    color: white;
+    text-shadow: 3px 1px 2px black;
 }
 
 
